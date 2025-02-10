@@ -2,3 +2,5 @@
 
 - Estado del proyecto: En Construccion
 
+Para ejecturar el sistema, debes poner:
+``` npm install react```
